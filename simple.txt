@@ -1,0 +1,8 @@
+
+
+Hello Everyone
+this is a simple text file
+
+I am going to try and read this file from 
+node main.js
+
